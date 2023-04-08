@@ -27,3 +27,5 @@ ComingChat is a metaverse platform that combines five functions: private social 
 ### BiXinKelePool
 
 Since 2013, BiXin has been deeply involved in the cryptocurrency industry and is committed to maintaining the security of the Bitcoin network and promoting the healthy development of the cryptocurrency community. They have built an integrated platform for cryptocurrency assets that includes core functions such as payment transfers, instant trading, storage and management, mining, and shared wallets.
+
+[Original Link](https://mp.weixin.qq.com/s/M4TcWe4SidELSDF375lDRw)
